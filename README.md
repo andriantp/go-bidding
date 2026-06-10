@@ -25,27 +25,23 @@ Throughout this series, we will build and evolve the system step by step:
 
 ## 📚 Related Articles
 
-| #  | Article                                                                     |
-| -- | --------------------------------------------------------------------------- |
-| 1  | Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang |
-| 2  | Menghidupkan Realtime: Implementasi WebSocket di Golang                     |
-| 3  | Menghubungkan Realtime dengan Redis: Pub/Sub di Golang                      |
-| 4  | Membangun Logic Bidding: Validasi dan State di Golang                       |
-| 5  | Menjaga Konsistensi: Atomic Bid dan Race Condition di Golang                |
-| 6  | Dari Event ke Persistence: Menjaga Reliability Sistem Realtime              |
-| 7  | Scaling Realtime Bidding: Multi Room dan Horizontal Scaling di Golang       |
-| 8  | Distributed Worker dan Event Processing Pipeline di Golang                  |
-| 9  | Consumer Group dan Worker Coordination di Redis Streams                     |
-| 10 | Snapshot dan Fast Recover                                                   |
-| 11 | Sharding dan Partition Ownership                                            |
-| 12 | Fault Tolerance dan Failover                                                |
-| 13 | Event Sourcing dan CQRS                                                     |
-| 14 | Observability di Distributed System                                         |
-| 15 | Dari Realtime Server ke Event-Driven Platform                               |
+- #1 [Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang](https://andriantriputra.medium.com/bidding-1-fondasi-realtime-bidding-menyiapkan-redis-untuk-sistem-websocket-di-golang-14186134ebd0)
+- Menghidupkan Realtime: Implementasi WebSocket di Golang
+- Menghubungkan Realtime dengan Redis: Pub/Sub di Golang
+- Membangun Logic Bidding: Validasi dan State di Golang
+- Menjaga Konsistensi: Atomic Bid dan Race Condition di Golang
+- Dari Event ke Persistence: Menjaga Reliability Sistem Realtime
+- Scaling Realtime Bidding: Multi Room dan Horizontal Scaling di Golang
+- Distributed Worker dan Event Processing Pipeline di Golang
+- Consumer Group dan Worker Coordination di Redis Streams
+- Snapshot dan Fast Recove
+- Sharding dan Partition Ownership
+- Fault Tolerance dan Failover
+- Event Sourcing dan CQRS
+- Observability di Distributed System
+- #15 Dari Realtime Server ke Event-Driven Platform
 
-Read the complete series on Medium:
 
-👉 https://andriantriputra.medium.com
 
 ## 🛠️ Tech Stack
 
