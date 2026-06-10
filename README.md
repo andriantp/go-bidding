@@ -25,8 +25,8 @@ Throughout this series, we will build and evolve the system step by step:
 
 ## 📚 Related Articles
 
-- #1 [Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang](https://andriantriputra.medium.com/bidding-1-fondasi-realtime-bidding-menyiapkan-redis-untuk-sistem-websocket-di-golang-14186134ebd0)
-- Menghidupkan Realtime: Implementasi WebSocket di Golang
+- Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang -> [chapter-1](https://andriantriputra.medium.com/bidding-1-fondasi-realtime-bidding-menyiapkan-redis-untuk-sistem-websocket-di-golang-14186134ebd0)
+- Menghidupkan Realtime: Implementasi WebSocket di Golang -> [chapter-2](https://andriantriputra.medium.com/bidding-2-menghidupkan-realtime-implementasi-websocket-di-golang-78a3f85b516e)
 - Menghubungkan Realtime dengan Redis: Pub/Sub di Golang
 - Membangun Logic Bidding: Validasi dan State di Golang
 - Menjaga Konsistensi: Atomic Bid dan Race Condition di Golang
@@ -39,7 +39,7 @@ Throughout this series, we will build and evolve the system step by step:
 - Fault Tolerance dan Failover
 - Event Sourcing dan CQRS
 - Observability di Distributed System
-- #15 Dari Realtime Server ke Event-Driven Platform
+- Dari Realtime Server ke Event-Driven Platform
 
 
 

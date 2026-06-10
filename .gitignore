@@ -1,4 +1,23 @@
-/docker/redis-data/
+# chapter-1
+/docker/redis-data
+
+# chapter-2
+# /golang/example/websocket
+# /golang/example/broadcast
+
+# chapter-3
+/golang/example/redis
+/golang/example/ws-redis
 
 
-/golang/
+/golang/example/atomic-bidding
+/golang/example/consumer-group
+/golang/example/cqrs
+/golang/example/failover
+/golang/example/logic-bidding
+/golang/example/observability
+/golang/example/persistence-reliability
+/golang/example/scaling
+/golang/example/scaling-worker
+/golang/example/sharding
+/golang/example/snapshot
