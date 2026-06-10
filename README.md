@@ -25,21 +25,21 @@ Throughout this series, we will build and evolve the system step by step:
 
 ## 📚 Related Articles
 
-- Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang -> [chapter-1](https://andriantriputra.medium.com/bidding-1-fondasi-realtime-bidding-menyiapkan-redis-untuk-sistem-websocket-di-golang-14186134ebd0)
-- Menghidupkan Realtime: Implementasi WebSocket di Golang -> [chapter-2](https://andriantriputra.medium.com/bidding-2-menghidupkan-realtime-implementasi-websocket-di-golang-78a3f85b516e)
-- Menghubungkan Realtime dengan Redis: Pub/Sub di Golang
-- Membangun Logic Bidding: Validasi dan State di Golang
-- Menjaga Konsistensi: Atomic Bid dan Race Condition di Golang
-- Dari Event ke Persistence: Menjaga Reliability Sistem Realtime
-- Scaling Realtime Bidding: Multi Room dan Horizontal Scaling di Golang
-- Distributed Worker dan Event Processing Pipeline di Golang
-- Consumer Group dan Worker Coordination di Redis Streams
-- Snapshot dan Fast Recove
-- Sharding dan Partition Ownership
-- Fault Tolerance dan Failover
-- Event Sourcing dan CQRS
-- Observability di Distributed System
-- Dari Realtime Server ke Event-Driven Platform
+- Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang -> [Chapter-1](https://andriantriputra.medium.com/bidding-1-fondasi-realtime-bidding-menyiapkan-redis-untuk-sistem-websocket-di-golang-14186134ebd0)
+- Menghidupkan Realtime: Implementasi WebSocket di Golang -> [Chapter-2](https://andriantriputra.medium.com/bidding-2-menghidupkan-realtime-implementasi-websocket-di-golang-78a3f85b516e)
+- Menghubungkan Realtime dengan Redis: Pub/Sub di Golang -> [Chapter-3]()
+- Membangun Logic Bidding: Validasi dan State di Golang -> [Chapter-4]()
+- Menjaga Konsistensi: Atomic Bid dan Race Condition di Golang -> [Chapter-5]()
+- Dari Event ke Persistence: Menjaga Reliability Sistem Realtime -> [Chapter-6]()
+- Scaling Realtime Bidding: Multi Room dan Horizontal Scaling di Golang -> [Chapter-7]()
+- Distributed Worker dan Event Processing Pipeline di Golang -> [Chapter-8]()
+- Consumer Group dan Worker Coordination di Redis Streams -> [Chapter-9]()
+- Snapshot dan Fast Recove -> [Chapter-10]()
+- Sharding dan Partition Ownership -> [Chapter-11]()
+- Fault Tolerance dan Failover -> [Chapter-12]()
+- Event Sourcing dan CQRS -> [Chapter-13]()
+- Observability di Distributed System -> [Chapter-14]()
+- Dari Realtime Server ke Event-Driven Platform -> [Chapter-15]()
 
 
 
