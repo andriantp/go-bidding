@@ -27,8 +27,8 @@ Throughout this series, we will build and evolve the system step by step:
 
 - Fondasi Realtime Bidding: Menyiapkan Redis untuk Sistem WebSocket di Golang -> [Chapter-1](https://andriantriputra.medium.com/bidding-1-fondasi-realtime-bidding-menyiapkan-redis-untuk-sistem-websocket-di-golang-14186134ebd0)
 - Menghidupkan Realtime: Implementasi WebSocket di Golang -> [Chapter-2](https://andriantriputra.medium.com/bidding-2-menghidupkan-realtime-implementasi-websocket-di-golang-78a3f85b516e)
-- Menghubungkan Realtime dengan Redis: Pub/Sub di Golang -> [Chapter-3]()
-- Membangun Logic Bidding: Validasi dan State di Golang -> [Chapter-4]()
+- Menghubungkan Realtime dengan Redis: Pub/Sub di Golang -> [Chapter-3](https://andriantriputra.medium.com/bidding-3-menghubungkan-realtime-dengan-redis-pub-sub-di-golang-8d23db424878)
+- Membangun Logic Bidding: Validasi dan State di Golang -> [Chapter-4](https://andriantriputra.medium.com/bidding-4-membangun-logic-bidding-validasi-dan-state-di-golang-f8f6bea6a56c)
 - Menjaga Konsistensi: Atomic Bid dan Race Condition di Golang -> [Chapter-5]()
 - Dari Event ke Persistence: Menjaga Reliability Sistem Realtime -> [Chapter-6]()
 - Scaling Realtime Bidding: Multi Room dan Horizontal Scaling di Golang -> [Chapter-7]()

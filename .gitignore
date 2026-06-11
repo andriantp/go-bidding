@@ -6,18 +6,22 @@
 # /golang/example/broadcast
 
 # chapter-3
-/golang/example/redis
-/golang/example/ws-redis
+# /golang/example/redis
+# /golang/example/ws-redis
 
 # chapter-4
-/golang/example/logic-bidding
+# /golang/example/logic-bidding
 
+# chapter-5
 /golang/example/atomic-bidding
+
+# chapter-6
+/golang/example/persistence-reliability
+
 /golang/example/consumer-group
 /golang/example/cqrs
 /golang/example/failover
 /golang/example/observability
-/golang/example/persistence-reliability
 /golang/example/scaling
 /golang/example/scaling-worker
 /golang/example/sharding
