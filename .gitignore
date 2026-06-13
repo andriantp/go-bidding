@@ -13,16 +13,20 @@
 # /golang/example/logic-bidding
 
 # chapter-5
-/golang/example/atomic-bidding
+# /golang/example/atomic-bidding
 
 # chapter-6
 /golang/example/persistence-reliability
+
+# chapter-7
+/golang/example/scaling
+
+# chapter-8
+/golang/example/scaling-worker
 
 /golang/example/consumer-group
 /golang/example/cqrs
 /golang/example/failover
 /golang/example/observability
-/golang/example/scaling
-/golang/example/scaling-worker
 /golang/example/sharding
 /golang/example/snapshot
