@@ -19,10 +19,10 @@
 # /golang/example/persistence-reliability
 
 # chapter-7
-/golang/example/scaling
+# /golang/example/scaling
 
 # chapter-8
-/golang/example/scaling-worker
+# /golang/example/scaling-worker
 
 /golang/example/consumer-group
 /golang/example/cqrs
