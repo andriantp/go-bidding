@@ -1,5 +1,6 @@
 .PHONY: up down ps logs-redis clean prune
 
+PROJECT=redis 
 FILE=docker/redis.docker-compose.yml
 DATA_DIR=docker/redis-data
 
@@ -15,12 +16,12 @@ init:
 
 up: init
 	@echo "🐳 Starting Redis..."
-	docker compose -f $(FILE) up --force-recreate -d
+	docker compose -p $(PROJECT) -f $(FILE) up --force-recreate -d
 	@echo "✅ Redis started"
 
 down:
 	@echo "🛑 Stopping Redis..."
-	docker compose -f $(FILE) down
+	docker compose -p $(PROJECT)  -f $(FILE) down
 	@echo "✅ Stopped"
 
 ps:
@@ -29,7 +30,7 @@ ps:
 
 logs-redis:
 	@echo "📝 Redis logs:"
-	docker compose -f $(FILE) logs -f redis
+	docker compose -p $(PROJECT) -f $(FILE) logs -f redis
 
 # ======================== Cleanup ========================
 

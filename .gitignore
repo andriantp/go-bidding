@@ -24,9 +24,22 @@
 # chapter-8
 # /golang/example/scaling-worker
 
-/golang/example/consumer-group
-/golang/example/cqrs
-/golang/example/failover
-/golang/example/observability
+# chapter-9
+# /golang/example/consumer-group
+
+# chapter-10
+# /golang/example/snapshot
+
+# chapter-11
 /golang/example/sharding
-/golang/example/snapshot
+
+# chapter-12
+/golang/example/failover
+
+# chapter-13
+/golang/example/cqrs
+
+# chapter-14
+/golang/example/observability
+
+
