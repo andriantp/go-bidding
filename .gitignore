@@ -31,10 +31,10 @@
 # /golang/example/snapshot
 
 # chapter-11
-/golang/example/sharding
+# /golang/example/sharding
 
 # chapter-12
-/golang/example/failover
+# /golang/example/failover
 
 # chapter-13
 /golang/example/cqrs
