@@ -37,9 +37,9 @@
 # /golang/example/failover
 
 # chapter-13
-/golang/example/cqrs
+# /golang/example/cqrs
 
 # chapter-14
-/golang/example/observability
+# /golang/example/observability
 
 

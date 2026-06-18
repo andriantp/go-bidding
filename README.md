@@ -37,8 +37,8 @@ Throughout this series, we will build and evolve the system step by step:
 - Snapshot dan Fast Recove -> [Chapter-10](https://medium.com/@andriantriputra/bidding-10-snapshot-dan-fast-recovery-mengurangi-replay-di-distributed-system-0509e18f9d35)
 - Sharding dan Partition Ownership -> [Chapter-11](https://medium.com/@andriantriputra/bidding-11-sharding-dan-partition-ownership-di-distributed-realtime-system-a47e17ddb9c4)
 - Fault Tolerance dan Failover -> [Chapter-12](https://medium.com/@andriantriputra/bidding-12-fault-tolerance-dan-failover-di-distributed-realtime-architecture-26d567dec9cc)
-- Event Sourcing dan CQRS -> [Chapter-13]()
-- Observability di Distributed System -> [Chapter-14]()
+- Event Sourcing dan CQRS -> [Chapter-13](https://medium.com/@andriantriputra/bidding-13-event-sourcing-dan-cqrs-di-golang-d3820f2a0a46)
+- Observability di Distributed System -> [Chapter-14](https://medium.com/@andriantriputra/bidding-14-observability-di-distributed-system-logging-metrics-dan-tracing-1c6729c388eb)
 - Dari Realtime Server ke Event-Driven Platform -> [Chapter-15]()
 
 
