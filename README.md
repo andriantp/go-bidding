@@ -39,7 +39,7 @@ Throughout this series, we will build and evolve the system step by step:
 - Fault Tolerance dan Failover -> [Chapter-12](https://medium.com/@andriantriputra/bidding-12-fault-tolerance-dan-failover-di-distributed-realtime-architecture-26d567dec9cc)
 - Event Sourcing dan CQRS -> [Chapter-13](https://medium.com/@andriantriputra/bidding-13-event-sourcing-dan-cqrs-di-golang-d3820f2a0a46)
 - Observability di Distributed System -> [Chapter-14](https://medium.com/@andriantriputra/bidding-14-observability-di-distributed-system-logging-metrics-dan-tracing-1c6729c388eb)
-- Dari Realtime Server ke Event-Driven Platform -> [Chapter-15]()
+- Dari Realtime Server ke Event-Driven Platform -> [Chapter-15](https://andriantriputra.medium.com/bidding-15-dari-realtime-server-ke-event-driven-platform-3dd626bfb0a5)
 
 
 
